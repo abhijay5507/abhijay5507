@@ -1,4 +1,5 @@
 🎓 First-Year Undergraduate at IIT Jodhpur
+
 Data Science Enthusiast | 💻 C++ Enthusiast | 🧠 Exploring AI/ML
 
 I enjoy building games from and understanding systems deeply —
