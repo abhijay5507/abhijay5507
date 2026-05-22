@@ -2,8 +2,9 @@
 
 Data Science Enthusiast | 💻 C++ Enthusiast | 🧠 Exploring AI/ML
 
-I enjoy building games from and understanding systems deeply —
+I enjoy building games and understanding systems deeply —
 from rendering pipelines to gameplay architecture and physics logic.
+
 
 🚀 Featured Projects
 👾 Pacman IOI (Contributor)
