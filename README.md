@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhijay Lilariya
 
 🎓  Undergraduate student at IIT Jodhpur  
-Data Science Enthusiast| 💻 C++ Enthusiast | 🧠 Exploring Computer Graphics  
+Data Science Enthusiast| 💻 C++ Enthusiast | 🧠 Exploring AI 
 
 I enjoy building games and understanding systems deeply —  
 from rendering pipelines to gameplay architecture and physics logic.
