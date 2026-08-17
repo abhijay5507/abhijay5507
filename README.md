@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Abhijay Lilariya
 
 🎓  Undergraduate student at IIT Jodhpur  
-Data Science Enthusiast| 💻 C++ Enthusiast | 🧠 Exploring AI 
+Data Science Enthusiast| 💻 Exploring AI | 🧠 Deep Learning 
 
-I enjoy building games and understanding systems deeply —  
-from rendering pipelines to gameplay architecture and physics logic.
+I enjoy building models and understanding systems deeply —  
+from rendering pipelines to architecture and logic.
 
 ---
 
@@ -47,7 +47,8 @@ This project strengthened my understanding of structured Unity workflows, collab
 ### 💻 Languages
 - C  
 - C++  
-- C#  
+- C#
+- Python
 
 ### 🛠️ Tools
 - Unity  
@@ -61,5 +62,5 @@ This project strengthened my understanding of structured Unity workflows, collab
 
 - Deeplearning
 - AI/ML
-- Systems Programming  
+- RAG based projects
 
